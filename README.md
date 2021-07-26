@@ -1,4 +1,17 @@
-[Alejo_LamannaComision3-parte1.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875054/Alejo_LamannaComision3-parte1.pdf)
-# AlejoLamanna
-## Lenguajes: html
-https://lamanna9.github.io/AlejoLamanna/
+[Alejo_LamannaComision3-parte1.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875067/Alejo_LamannaComision3-parte1.pdf)
+[Alejo_LamannaComision3-parte2.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875068/Alejo_LamannaComision3-parte2.pdf)
+[Alejo_Lamanna_Comision3-parte1.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875069/Alejo_Lamanna_Comision3-parte1.pdf)
+[Alejo_Lamanna_Comision3-parte2.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875070/Alejo_Lamanna_Comision3-parte2.pdf)
+![Ejercicio_clase_4](https://user-images.githubusercontent.com/85651104/126923831-0fa1d7eb-dfbd-44f6-8e81-946e6de8fe59.png)
+![Ejercicio Base-Page-1](https://user-images.githubusercontent.com/85651104/126923835-29fe5491-f105-4ef0-9a6f-8ebd89432648.png)
+[Ejercicio clase 6.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875075/Ejercicio.clase.6.pdf)
+[Grupo 7-Alejo Lamanna.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875078/Grupo.7-Alejo.Lamanna.pdf)
+[Actividad 1.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875079/Actividad.1.pdf)
+[Práctica comparativa - Actividad 2.docx](https://github.com/Lamanna9/AlejoLamanna/files/6875082/Practica.comparativa.-.Actividad.2.docx)
+[Copia de Ejercicio de algoritmos de planificación - Práctica.xlsx](https://github.com/Lamanna9/AlejoLamanna/files/6875083/Copia.de.Ejercicio.de.algoritmos.de.planificacion.-.Practica.xlsx)
+![Armado de redes actividad_Clase18](https://user-images.githubusercontent.com/85651104/126923926-c5bf93fe-42bf-4a75-aa92-e525f0013a71.png)
+[Puertos_Clase19.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875085/Puertos_Clase19.pdf)
+[Intranet, Extranet e Internet_Clase20.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875087/Intranet.Extranet.e.Internet_Clase20.pdf)
+[Clase 17 protocolos iniciales.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875090/Clase.17.protocolos.iniciales.pdf)
+![Alejo_Lamanna_Clase_Redes](https://user-images.githubusercontent.com/85651104/126924034-2d474404-e35b-4f43-9f78-97ff079fa035.png)
+[Actividad Tipos de amenazas - Camada 3.pdf](https://github.com/Lamanna9/AlejoLamanna/files/6875097/Actividad.Tipos.de.amenazas.-.Camada.3.pdf)
